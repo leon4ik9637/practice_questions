@@ -1,1 +1,1 @@
-# java_whiteboard_interview_questions
+# java_practice_questions
